@@ -1,0 +1,97 @@
+2017-04-02 12:10:15,516 [Thread-15:123145397698560] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-02 12:22:04,038 [Thread-57:123145457889280] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-02 14:00:30,167 [Thread-41:123145341202432] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-02 14:33:10,154 [Thread-196:123145341202432] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-02 15:25:49,510 [Thread-231:123145346457600] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-03 01:25:29,931 [Thread-308:123145341202432] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-03 01:25:47,290 [Thread-326:123145341202432] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-03 01:26:47,555 [Thread-44:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-03 05:55:25,711 [Thread-116:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-03 05:55:25,750 [Thread-117:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-03 05:55:25,760 [Thread-118:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-03 05:55:25,769 [Thread-119:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-03 05:55:25,781 [Thread-120:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-03 05:55:25,793 [Thread-121:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-03 05:55:25,816 [Thread-123:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-03 05:55:25,828 [Thread-124:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-03 05:55:25,840 [Thread-125:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-03 05:55:25,850 [Thread-126:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-03 05:55:25,860 [Thread-127:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-03 05:55:25,869 [Thread-128:123145506004992] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-04 02:07:27,448 [Thread-124:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-04 02:07:27,494 [Thread-125:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-04 02:07:27,504 [Thread-126:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-04 02:07:27,515 [Thread-127:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-04 02:07:27,525 [Thread-128:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-04 02:07:27,535 [Thread-129:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-04 02:07:27,571 [Thread-131:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-04 02:07:27,584 [Thread-132:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-04 02:07:27,596 [Thread-133:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-04 02:07:27,607 [Thread-134:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-04 02:07:27,616 [Thread-135:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-04 02:07:27,627 [Thread-136:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-04 02:13:52,190 [Thread-162:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 02:21:26,075 [Thread-172:123145416847360] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 02:52:37,034 [Thread-308:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 03:01:22,944 [Thread-360:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 03:01:26,731 [Thread-363:123145411592192] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 03:11:42,265 [Thread-374:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 03:16:21,702 [Thread-384:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 03:18:35,340 [Thread-433:123145416847360] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 03:21:15,146 [Thread-440:123145411592192] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 03:21:17,269 [Thread-446:123145411592192] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 03:21:18,914 [Thread-453:123145411592192] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 03:21:27,134 [Thread-486:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 03:21:31,260 [Thread-497:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-04 11:11:14,699 [Thread-529:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-04 11:11:14,785 [Thread-530:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-04 11:11:14,796 [Thread-531:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-04 11:11:14,809 [Thread-532:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-04 11:11:14,821 [Thread-533:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-04 11:11:14,831 [Thread-534:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-04 11:11:14,854 [Thread-536:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-04 11:11:14,864 [Thread-537:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-04 11:11:14,873 [Thread-538:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-04 11:11:14,884 [Thread-539:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-04 11:11:14,894 [Thread-540:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-04 11:11:14,904 [Thread-541:123145406337024] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 09:10:46,056 [Thread-64:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-04-13 11:27:14,965 [Thread-69:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:27:15,132 [Thread-70:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:27:15,145 [Thread-71:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 11:27:15,160 [Thread-72:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:27:15,172 [Thread-73:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:27:15,183 [Thread-74:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 11:27:15,210 [Thread-76:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:27:15,221 [Thread-77:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:27:15,232 [Thread-78:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 11:27:15,244 [Thread-79:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:27:15,255 [Thread-80:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:27:15,266 [Thread-81:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 11:42:47,880 [Thread-83:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:42:48,048 [Thread-84:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:42:48,082 [Thread-85:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 11:42:48,295 [Thread-86:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:42:48,339 [Thread-87:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:42:48,376 [Thread-88:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 11:42:48,461 [Thread-90:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:42:48,495 [Thread-91:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:42:48,522 [Thread-92:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 11:42:48,555 [Thread-93:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:42:48,589 [Thread-94:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:42:48,621 [Thread-95:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 11:55:37,018 [Thread-97:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:55:37,504 [Thread-98:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:55:37,581 [Thread-99:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 11:55:37,822 [Thread-100:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:55:37,869 [Thread-101:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:55:38,012 [Thread-102:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 11:55:38,159 [Thread-104:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:55:38,216 [Thread-105:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:55:38,272 [Thread-106:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-04-13 11:55:38,305 [Thread-107:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon-precomposed.png
+2017-04-13 11:55:38,348 [Thread-108:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /apple-touch-icon.png
+2017-04-13 11:55:38,382 [Thread-109:123145536225280] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-01 15:35:34,464 [Thread-15:123145481355264] [django.request:182] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-05-01 15:39:15,321 [Thread-51:123145476100096] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc
+2017-05-01 15:40:38,852 [Thread-56:123145476100096] [django.request:182] [base:get_response] [WARNING]- Not Found: /media/Mich - Fade (Mich Remix) .lrc

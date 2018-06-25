@@ -1,0 +1,25 @@
+html {
+    font-size: 16px;
+}
+body {
+    background-image: url('../img/body.png');
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+iframe {
+    display: block;
+    background-color: #fff;
+    height: 46rem;
+    width: 25.875rem;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    margin-left: -12.9375rem;
+    margin-top: -23rem;
+    box-shadow: 0 0 15px #444;
+}
